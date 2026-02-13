@@ -1,4 +1,4 @@
-# Sprint 4: ConsoleUI - Implementierungsdokumentation
+# Sprint 3: ConsoleUI - Implementierungsdokumentation
 
 ## 📋 Übersicht
 
